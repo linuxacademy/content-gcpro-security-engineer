@@ -1,6 +1,6 @@
 {
     "item": {
-       "value" : "My name is Joseph Lowery. You can reach me at 646.325.7561. My SSN is 249-99-1000. I'm also available at jwl@idest.com."
+       "value" : "My name is Joseph Lowery. You can reach me at 123.456.7890. My SSN is 249-99-1000. I'm also available at joseph@linuxacademy.com."
      },
      "deidentifyConfig": {
        "infoTypeTransformations":{
