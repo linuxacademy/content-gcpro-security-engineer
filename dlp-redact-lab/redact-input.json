@@ -1,0 +1,29 @@
+{
+    "item": {
+       "value" : "My name is Joseph Lowery. You can reach me at 646.325.7561. My SSN is 249-99-1000. I'm also available at jwl@idest.com."
+     },
+     "deidentifyConfig": {
+       "infoTypeTransformations":{
+            "transformations": [
+              {
+                "primitiveTransformation": {
+                  "replaceWithInfoTypeConfig": {}
+                }
+              }
+            ]
+          }
+      },
+      "inspectConfig": {
+        "infoTypes": [
+          {
+              "name": "PHONE_NUMBER"
+          },
+          {
+              "name": "EMAIL_ADDRESS"
+          },
+          {
+              "name": "US_SOCIAL_SECURITY_NUMBER"
+          }
+        ]
+      }
+  }
